@@ -1,4 +1,10 @@
-### <div align="justify">Привет, меня зовут Анатолий!👋</div>
+<h1 align="center">Привет👋 Меня зовут Анатолий!</h1>
+
+###
+
+<h3 align="left">👩‍💻  Обо мне</h3>
+
+###
   
 
 Я начинающий ML-инженер/Data Scientist с большой страстью к данным и алгоритмам. Разбираюсь в нейронных сетях, машинном обучении. Некоторое время писал Backend для веб-приложений. В свободное время люблю кататься на велосипеде🚴, читать книги📖, играть в MOBA и MMORPG игры, решать алгоритмические задачки на различных платформах, а также путешествовать.  
@@ -57,7 +63,35 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+###
+
+<h3 align="left">🔥   Моя статистика :</h3>
+
+<h4 align="left">Статистика GitHub:</h4>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MrJuniorJP&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrJuniorJP&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MrJuniorJP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h4 align="left">Статистика CodeWars:</h4>
+
+![CodeWars](https://www.codewars.com/users/Nicks124567/badges/large)
+
+
+
 
 
 ## Контакты  
@@ -65,5 +99,9 @@
 <a href="https://t.me/Lipton3452" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
 </a>
+<a href="https://vk.com/id152236677" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs0JTQ8BWuFrFFECDx8KxGHX_4EbAoEdjeSg&s" height="25" alt="telegram logo"  />
+</a>
 </div>  
-  
+
+
