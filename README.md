@@ -8,7 +8,8 @@
 
 
 ## Мой стек  
-<table><tr><td valign="top" width="33%">
+<table border="0">
+<tr><td valign="top" width="33%">
 
 
 
@@ -23,7 +24,7 @@
 ![]()  
 
 
-</td><td valign="top" width="33%" align="center">
+</td><td valign="top" width="33%">
 
 
 
