@@ -17,7 +17,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Мой стек  
 <table><tr><td valign="top" width="33%">
 
 
@@ -85,6 +85,3 @@
 </a>  
 </div>  
   
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
