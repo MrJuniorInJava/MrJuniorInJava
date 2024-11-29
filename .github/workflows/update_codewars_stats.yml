@@ -1,0 +1,41 @@
+name: Update CodeWars Stats
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Обновление каждый день в полночь
+  workflow_dispatch:  # Ручной запуск через интерфейс GitHub
+
+jobs:
+  update-codewars-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Fetch CodeWars Stats
+        run: |
+          curl -s https://www.codewars.com/api/v1/users/Nicks124567 > codewars.json
+
+          # Извлечение данных
+          honor=$(jq .honor codewars.json)
+          rank=$(jq -r .ranks.overall.name codewars.json)
+          leaderboard=$(jq .leaderboardPosition codewars.json)
+          challenges=$(jq .codeChallenges.totalCompleted codewars.json)
+
+          # Обновление README.md
+          sed -i '/<!--START_CODEWARS_STATS-->/,<!--END_CODEWARS_STATS-->/c\
+          <!--START_CODEWARS_STATS-->\n\
+          ### CodeWars Stats\n\
+          - **Honor**: $honor\n\
+          - **Rank**: $rank\n\
+          - **Leaderboard Position**: $leaderboard\n\
+          - **Completed Challenges**: $challenges\n\
+          <!--END_CODEWARS_STATS-->' README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Update CodeWars Stats"
+          git push
