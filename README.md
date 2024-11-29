@@ -35,6 +35,11 @@
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>
 <a href="https://scikit-learn.org/" target="_blank"><img style="margin: 10px" src="https://datastart.ru/blog/assets/uploads/cXhLkkaDc7xyZkbRtPHv2RhGRWIFCuhN.jpg" alt="scikit-learn" height="50" /></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSu9xFbA6COOd9Wq-koFEoAFD7wpFgbvdz6Q&s" alt="pandas" height="50" /></a>
+<a href="https://numpy.org/" target="_blank"><img style="margin: 10px" src="https://avatars.githubusercontent.com/u/288276?s=280&v=4" alt="scikit-learn" height="50" /></a>
+<a href="https://scipy.org/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGnfhZwoeVtV8kGJjOCAyuBBLEWWpC7OFiqQ&s" alt="scikit-learn" height="50" /></a>
+<a href="https://huggingface.co/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbV0nsS-UXj2CFrm4REkgNl0D3o7Oa5SGIdQ&s" alt="scikit-learn" height="50" /></a>
+<a href="https://www.llamaindex.ai/" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMP8S3VbNCqOQd7QQQcbvC_FLa1HlftCiJw&s" alt="scikit-learn" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
