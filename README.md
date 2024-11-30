@@ -90,7 +90,7 @@
 
 <div align="center">
   
-[![Codewars](https://github.r2v.ch/codewars?user=Nicks124567&name=true&top_languages=true&stroke=%23b362ff&theme=dark)](https://www.codewars.com/users/Nicks124567)
+[![Codewars](https://github.r2v.ch/codewars?user=Nicks124567&name=false&hide_clan=true&top_languages=true&stroke=%23b362ff&theme=purple_dark)](https://www.codewars.com/users/Nicks124567)
 
 </div> 
 
