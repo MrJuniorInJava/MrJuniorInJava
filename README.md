@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h2 align="left">👩‍💻  Обо мне</h2>
 
 ###
   
@@ -67,9 +67,9 @@
 
 ###
 
-<h3 align="left">🔥   Моя статистика :</h3>
+<h2 align="left">🔥   Моя статистика :</h2>
 
-<h4 align="left">Статистика GitHub:</h4>
+<h3 align="left">Статистика GitHub:</h3>
 
 ###
 
@@ -86,9 +86,13 @@
 
 ###
 
-<h4 align="left">Статистика CodeWars:</h4>
+<h3 align="left">Статистика CodeWars:</h3>
 
-![CodeWars](https://www.codewars.com/users/Nicks124567/badges/large)
+<div align="center">
+  
+![Codewars](https://github.r2v.ch/codewars?user=Nicks124567&name=true&top_languages=true&stroke=%23b362ff&theme=dark)
+
+</div> 
 
 
 
