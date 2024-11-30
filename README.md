@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">👩‍💻  Обо мне</h2>
+<h2 align="center">👩‍💻  Обо мне</h2>
 
 ###
   
@@ -13,13 +13,13 @@
 <br/>  
 
 
-## Мой стек  
+<h2 align="center">Мой стек</h2>  
 <table border="0">
 <tr><td valign="top" width="33%">
 
 
 
-### Backend  
+<h3 align="center">Backend</h3>  
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
@@ -34,7 +34,7 @@
 
 
 
-### Machine Learning  
+<h3 align="center">Machine Learning </h3>  
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
@@ -53,7 +53,7 @@
 
 
 
-### DevOps  
+<h3 align="center">DevOps</h3> 
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
@@ -67,7 +67,7 @@
 
 ###
 
-<h2 align="left">🔥   Моя статистика :</h2>
+<h2 align="center">🔥  Моя статистика</h2>
 
 <h3 align="left">Статистика GitHub:</h3>
 
@@ -98,7 +98,7 @@
 
 
 
-## Контакты  
+<h2 align="center">Контакты</h2> 
 <div align="center">
 <a href="https://t.me/Lipton3452" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
