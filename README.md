@@ -95,6 +95,64 @@
 </div> 
 
 
+<h2 align="center"> Несколько моих проектов</h2>
+
+
+
+<h3>RAG-система</h3>
+<p><strong>Описание:</strong> Система Retrieval-Augmented Generation для обработки информации из PDF-документов.</p>
+<p><strong>Что было сделано:</strong></p>
+<ul>
+  <li>Настроен LlamaHub для подключения PDF-документов.</li>
+  <li>Реализован интерфейс для демонстрации в Google Colab.</li>
+  <li>Внедрены Guardrails для контроля качества ответов.</li>
+</ul>
+<p><strong>Результат:</strong> Готовая RAG-система для поиска и генерации ответов по загруженным PDF.</p>
+<p><strong>Стек:</strong> Python, LlamaIndex, LangChain, NeMo Guardrails.</p>
+<p>
+  <strong>Ссылки:</strong>
+  <ul>
+    <li><a href="https://github.com/MrJuniorJP/RAG" target="_blank">Репозиторий проекта</a></li>
+  </ul>
+</p>
+
+<h3>Модель на архитектуре U_net++</h3>
+<p><strong>Описание:</strong> Модель сегментации медицинских рентгеновских изображений для выявления аномалий, основанная на архитектуре U-Net++.</p>
+<p><strong>Что было сделано:</strong></p>
+<ul>
+  <li>Настроена загрузка и предобработка данных из COVID-19 Radiography Dataset.</li>
+  <li>Реализован полный цикл обучения модели с аугментацией изображений.</li>
+  <li>Построены визуализации результатов.</li>
+</ul>
+<p><strong>Результат:</strong> Обученная модель сегментации для медицинских данных, улучшенная с помощью современных методов аугментации.</p>
+<p><strong>Стек:</strong> Python, LlamaIndex, LangChain, NeMo Guardrails.</p>
+<p>
+  <strong>Ссылки:</strong>
+  <ul>
+    <li><a href="https://github.com/MrJuniorJP/U_net_plus_plus" target="_blank">Репозиторий проекта</a></li>
+  </ul>
+</p>
+
+
+<h3>Cloud Quiz Bot</h3>
+<p><strong>Описание:</strong> Телеграм-бот для создания и прохождения квизов. Включает хранение результатов и анализ активности пользователей.</p>
+<p><strong>Роль:</strong> Разработчик полного цикла.</p>
+<p><strong>Что было сделано:</strong></p>
+<ul>
+  <li>Настроен бэкенд для обработки данных.</li>
+  <li>Разработан интерактивный интерфейс для пользователей.</li>
+  <li>Настроено развертывание в облаке.</li>
+</ul>
+<p><strong>Результат:</strong> Функционирующий бот с интеграцией базы данных и аналитикой.</p>
+<p><strong>Инструментарий:</strong> Python, aiogram, YSQL, Yandex Cloud</p>
+<p>
+  <strong>Ссылки:</strong>
+  <ul>
+    <li><a href="https://github.com/MrJuniorJP/cloud_quiz_bot" target="_blank">Репозиторий проекта</a></li>
+    <li><a href="https://t.me/YourBotUsername" target="_blank">Ссылка на бота</a></li>
+  </ul>
+</p>
+
 
 
 
