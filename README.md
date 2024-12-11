@@ -108,7 +108,7 @@
   <li>Внедрены Guardrails для контроля качества ответов.</li>
 </ul>
 <p><strong>Результат:</strong> Готовая RAG-система для поиска и генерации ответов по загруженным PDF.</p>
-<p><strong>Стек:</strong> Python, LlamaIndex, LangChain, NeMo Guardrails.</p>
+<p><strong>Стек:</strong> Python, LlamaIndex, numpy, pandas, matplotlib, NeMo Guardrails, Arize Phoenix.</p>
 <p>
   <strong>Ссылки:</strong>
   <ul>
@@ -125,7 +125,7 @@
   <li>Построены визуализации результатов.</li>
 </ul>
 <p><strong>Результат:</strong> Обученная модель сегментации для медицинских данных, улучшенная с помощью современных методов аугментации.</p>
-<p><strong>Стек:</strong> Python, LlamaIndex, LangChain, NeMo Guardrails.</p>
+<p><strong>Стек:</strong> Python, TensorFlow/Keras, Albumentations, numpy, pandas, matplotlib</p>
 <p>
   <strong>Ссылки:</strong>
   <ul>
@@ -144,12 +144,31 @@
   <li>Настроено развертывание в облаке.</li>
 </ul>
 <p><strong>Результат:</strong> Функционирующий бот с интеграцией базы данных и аналитикой.</p>
-<p><strong>Инструментарий:</strong> Python, aiogram, YSQL, Yandex Cloud</p>
+<p><strong>Стек:</strong> Python, aiogram, YSQL, Yandex Cloud</p>
 <p>
   <strong>Ссылки:</strong>
   <ul>
     <li><a href="https://github.com/MrJuniorJP/cloud_quiz_bot" target="_blank">Репозиторий проекта</a></li>
-    <li><a href="https://t.me/YourBotUsername" target="_blank">Ссылка на бота</a></li>
+    <li><a href="https://t.me/SpringTest123123Bot" target="_blank">Ссылка на бота</a></li>
+  </ul>
+</p>
+
+<h3>Веб-приложение для изучения английских слов</h3>
+<p><strong>Описание:</strong> Данное веб приложение создавалось с целью изучения новый аглийских слов. Все слова в приложении представлены в виде карточек, на обратной стороне которых расположены переводы на русский язык, а на переднем обороте - английский.</p>
+<p><strong>Что было сделано:</strong></p>
+<ul>
+  <li>Добавлена возможность добавления/удаления новых карточек со словами</li>
+  <li>Разработана функция для прохождения квиза по переводам слов, которые можно выбрать самому.</li>
+  <li>Добавлена сортировка всех карточек, их поиск.</li>
+  <li>Разработан интерфейс взаимодействия с приложением</li>
+  <li>Добавлена валидация слов, которые хочешь добавить</li>
+</ul>
+<p><strong>Результат:</strong> Рабочее веб-приложение для изучения английских слов.</p>
+<p><strong>Стек:</strong> Java, PostgreSQL, Spring Data JPA, Spring Core, Spring Security, SpringBoot</p>
+<p>
+  <strong>Ссылки:</strong>
+  <ul>
+    <li><a href="https://github.com/MrJuniorJP/LearnEnglish" target="_blank">Репозиторий проекта</a></li>
   </ul>
 </p>
 
